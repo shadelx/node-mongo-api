@@ -6,5 +6,7 @@ router.get('/',(req, res) => {
  })
 
  router.use('/todo', require('./todos'))
+ router.use('/auth', require('./auth'))
+ 
  
  module.exports = router
