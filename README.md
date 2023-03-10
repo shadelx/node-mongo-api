@@ -8,3 +8,5 @@ This is a simple MongoDB api to-do list with express and node tech.
 * Mongoose
 * Passport
 * Bcrypt
+* JWT
+
