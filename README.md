@@ -26,12 +26,12 @@ DATABASE_URL=  url from [Cloud](https://www.mongodb.com/cloud) Mongo DB
 ## Server properties
 
 routes
-/api/
-/api/todo (CRUD)
-/api/auth/signup
-/api/auth/login
-/api/auth/profile
-/api/user (CRUD)
+- /api/
+- /api/todo (CRUD)
+- /api/auth/signup
+- /api/auth/login
+- /api/auth/profile
+- /api/user (CRUD)
 
 default profile
 
